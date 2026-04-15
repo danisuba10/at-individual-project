@@ -55,7 +55,7 @@ To run this project, ensure you have the following installed:
 ### 1. Prepare the Raspberry Pi
 
 1. Assemble the hardware according to the schematics above
-2. Install Python 3.7+ (usually pre-installed on Raspberry Pi OS)
+2. Install Python 3.7+
 3. Install required Python packages:
    ```bash
    pip install gpiozero flask
