@@ -22,7 +22,7 @@ Circuit diagram showing the connections between the Raspberry Pi, motor driver m
 | DC Motor | 2 | [TA0132 Specifications](https://www.auselectronicsdirect.com.au/assets/files/TA0132%20Specifications.pdf) |
 | L298N Motor Driver | 1 | [L298N Motor Driver](https://www.handsontec.com/dataspecs/L298N%20Motor%20Driver.pdf) |
 | Raspberry Pi 5 | 1 | [Raspberry Pi 5 Product Brief](https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008348-DS-6-raspberry-pi-5-product-brief.pdf?disposition=inline) |
-| AAA Battery Holder | 1 | https://www.emag.ro/suport-4-baterii-aa-cu-comutator-r6-6v-negru-rosu-2-a-003/pd/D4YGKLMBM/ |
+| AAA Battery Holder | 1 | [AAA Battery Holder](https://www.emag.ro/suport-4-baterii-aa-cu-comutator-r6-6v-negru-rosu-2-a-003/pd/D4YGKLMBM/) |
 | Connecting Wires | Various | - |
 
 **Pin Configuration:**
